@@ -4,7 +4,7 @@ Rolling Dice React App is build using the create react app
 ![](https://curtisaallen.github.io/roll-dice-app/bg.png)
 
 ### Demo
-[Rolling Dice React App - Live DEMO](https://curtisaallen.github.io/pokedex/build/index.html)
+[Rolling Dice React App - Live DEMO](https://curtisaallen.github.io/roll-dice-app/build/index.html)
 
 
 ## Project setup
