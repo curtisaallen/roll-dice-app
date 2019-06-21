@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/roll-dice-app/build/static/css/main.d4d83ff5.chunk.css",
+    "main.js": "/roll-dice-app/build/static/js/main.22c2e307.chunk.js",
+    "main.js.map": "/roll-dice-app/build/static/js/main.22c2e307.chunk.js.map",
+    "runtime~main.js": "/roll-dice-app/build/static/js/runtime~main.1e0138f5.js",
+    "runtime~main.js.map": "/roll-dice-app/build/static/js/runtime~main.1e0138f5.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/roll-dice-app/build/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/roll-dice-app/build/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/roll-dice-app/build/index.html",
+    "precache-manifest.d5fadafbf0818ca3ea672d639ded1f42.js": "/roll-dice-app/build/precache-manifest.d5fadafbf0818ca3ea672d639ded1f42.js",
+    "service-worker.js": "/roll-dice-app/build/service-worker.js",
+    "static/css/main.d4d83ff5.chunk.css.map": "/roll-dice-app/build/static/css/main.d4d83ff5.chunk.css.map"
+  }
+}
